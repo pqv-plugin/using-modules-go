@@ -12,3 +12,7 @@ func Hello() string {
 func Proverb() string {
 	return quoteV3.Concurrency()
 }
+
+func Mala() string {
+	return "Azul"
+}
